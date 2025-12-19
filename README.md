@@ -7,6 +7,7 @@ DevourX is an open-source C++ mod menu developed specifically for the co-op horr
 > **Development of this mod has been discontinued.**
 - It will no longer receive new features.  
 - Only compatibility fixes will be released when future game updates require it.
+- I will keep my mod projects in a different repository soon. This project will be moved shortly.
 
 Thank you to everyone who used, tested or supported this project.  
 End of the line.
