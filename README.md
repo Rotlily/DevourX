@@ -1,16 +1,19 @@
 # DevourX
-DevourX is an open-source C++ mod menu developed specifically for the co-op horror game Devour.
+DevourX is an open-source C++ mod menu developed for the co-op horror game Devour.
 
 ### Notice
 
-> [!WARNING]  
+> [!IMPORTANT]  
 > **Development of this mod has been discontinued.**
-- It will no longer receive new features.  
-- Only compatibility fixes will be released when future game updates require it.
-- I will keep my mod projects in a different repository soon. This project will be moved shortly.
+>
+> 
+> - No new features will come.
+> - Only necessary compatibility fixes will be released if the game requires them.
+>
+> **Thank you to everyone who used, tested or supported this project.**
+> 
+> *End of the line.*
 
-Thank you to everyone who used, tested or supported this project.  
-End of the line.
 
 ![MenuShowcase](img/Screenshot.png)
 ![MenuShowcase](img/Screenshot2.jpg)
@@ -99,11 +102,4 @@ If this happens, restore the file from quarantine and add it to your antivirus e
 ## Security and Ethics
 - Respect the experience of other players in online lobbies.
 - This repository does not encourage cheating in any way; it is intended solely for modding and technical research.
-
-## Support & Contact
-If you'd like to support future development, you can donate here:
-
-- [BuyMeACoffe/jadis0x](https://buymeacoffee.com/jadis0x)
-- [PayPal/jadis0x](https://www.paypal.com/paypalme/jadis0x)
-- Discord: Jadis0x
 
