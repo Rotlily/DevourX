@@ -1,3 +1,10 @@
+<p align="right">
+  <img src="https://img.shields.io/badge/license-GPL--3.0-orange">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jadis0x.DevourX">
+  <img src="https://img.shields.io/github/downloads/Jadis0x/DevourX/total">
+</p>
+
+
 # DevourX
 DevourX is an open-source C++ mod menu developed for the co-op horror game Devour.
 
